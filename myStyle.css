@@ -79,7 +79,6 @@ section{
 
 nav {
   background-color: blue;
-  text-decoration: bold;
   font-weight: bold;
   flex: 0.75;
 }
@@ -136,10 +135,7 @@ background-color: black;
      background-color: navy;
    }
 iframe{
-  frameborder=0;
-overflow:hidden;
-  width=300px;
-  height=400px;
+  overflow:hidden;
 }
 .memepics img{
 width: 45%;
